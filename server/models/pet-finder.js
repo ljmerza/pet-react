@@ -1,6 +1,8 @@
 const petfinderKey = '$t';
 const lastUpdatedFormat = 'MMMM Qo, YYYY';
 
+// https://www.petfinder.com/developers/api-docs#response
+
 const moment = require('moment');
 
 /**
